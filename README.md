@@ -21,3 +21,40 @@ JavaScript (ES6+): Manipulação da lógica aritmética.
 HTML5 & CSS3: Estrutura e estilização da interface.
 
 Google Fonts: Tipografia personalizada.
+
+🔧 Como Executar o Projeto
+Pré-requisitos
+Ter o Node.js instalado na tua máquina.
+
+Passo a Passo
+Clone o repositório:
+
+Bash
+git clone https://github.com/juliocouteau/calculadora-vue.git
+Aceda à pasta do projeto:
+
+Bash
+cd calculadora-vue
+Instale as dependências:
+
+Bash
+npm install
+Inicie o servidor de desenvolvimento:
+
+Bash
+npm run dev
+O projeto estará disponível no endereço http://localhost:5173 (ou a porta indicada no terminal).
+
+🛠 Conceitos Aplicados
+Durante o desenvolvimento foram aplicados os seguintes conceitos do Vue:
+
+v-model: Para capturar os dados dos inputs.
+
+Computed Properties: Para gerir a lógica do cálculo de forma otimizada.
+
+Scoped CSS: Para garantir que os estilos não interfiram com outros componentes.
+
+👤 Autor
+Desenvolvido por Julio Couteau.
+
+Este projeto faz parte do percurso de aprendizagem em Desenvolvimento Full Stack.
